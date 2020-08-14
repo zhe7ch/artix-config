@@ -1,5 +1,5 @@
 # artix-config
 my Artix Linux configs
 
-vim 
+vim  
     mkdir ~/.vim/undodir
