@@ -24,4 +24,4 @@ Thinkorswim
 
 add in thinkorswim.vmoptions
 
-    -Dsun.java2d.uiScale=2
+    -
