@@ -18,3 +18,8 @@ vim
 
     # fix Telegram ibus input
     export QT_IM_MODULE=ibus
+    
+   
+Thinkorswim
+add in thinkorswim.vmoptions
+    -Dsun.java2d.uiScale=2
