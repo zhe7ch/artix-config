@@ -3,10 +3,6 @@ my Artix Linux configs
 
 console keymap:
 
-/etc/vconsole.conf
-
-    KEYMAP=dvorak    
-
 vim 
 
     mkdir ~/.vim/undodir
