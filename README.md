@@ -1,8 +1,6 @@
 # artix-config
 my Artix Linux configs
 
-console keymap:
-
 vim 
 
     mkdir ~/.vim/undodir
@@ -14,5 +12,11 @@ vim
 
     # fix Telegram ibus input
     export QT_IM_MODULE=ibus
-    
-  
+
+
+
+HiDPI:
+
+In Pycharm, Help -> Edit Custom VM Options, input:
+    -Dsun.java2d.uiScale.enabled=true
+    -Dsun.java2d.uiScale=2  
