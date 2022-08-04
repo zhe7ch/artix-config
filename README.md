@@ -18,5 +18,6 @@ vim
 HiDPI:
 
 In Pycharm, Help -> Edit Custom VM Options, input:
+
     -Dsun.java2d.uiScale.enabled=true
     -Dsun.java2d.uiScale=2  
