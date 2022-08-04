@@ -1,6 +1,10 @@
 # artix-config
 my Artix Linux configs
 
+change to zsh
+
+    chsh -s $(which zsh)
+
 vim 
 
     mkdir ~/.vim/undodir
